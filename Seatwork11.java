@@ -1,5 +1,6 @@
 public class Seatwork11 {
   public static void main(String[] args) {
+    // Part 1
     System.out.println("SEATWORKELEVEN2025");
     System.out.println();
     
