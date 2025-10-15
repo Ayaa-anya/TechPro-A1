@@ -1,0 +1,18 @@
+public class SeatworkThirteenPartTwo {
+
+public static void sayHello(int count){
+if(count == 0) {
+System.out.println("\\nDone!");
+
+} else {
+
+System.out.println("Hello");
+sayHello(count - 1);
+}
+}
+
+public static void main(String[] args) {
+sayHello(3);
+}
+}
+}
